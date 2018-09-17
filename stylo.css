@@ -1,0 +1,35 @@
+nav {
+
+    font-size: 17px;
+    font-family: fantasy, serif;
+    text-align: center;
+  
+  }
+  
+  .current-page {
+    font-weight: bold;
+  
+  }
+  
+  .name {
+    text-align: center;
+    color: green;
+  }
+  
+  nav ul {
+      display: inline;
+  }
+  
+  nav li {
+    display: inline;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  .self-image {
+  
+  }
+   h5{
+     text-align: center;
+   }
+  
