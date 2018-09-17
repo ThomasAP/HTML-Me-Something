@@ -1,19 +1,21 @@
-p, span {
+body {
   font-family: 'Goudy Bookletter 1911', Georgia, Times, serif;
   font-size: 15px;
   line-height: 25px;
+  color: palegreen;
+  background-color: black;
  }
 
- h1, h2, h3 {
+ h1, h2, h3, nav {
   font-family: 'Raleway', Helvetica, Arial, sans-serif;
   font-size: 50px;
   line-height: 70px;
+  color: green;
  }
 
 nav {
 
     font-size: 13px;
-    font-family: fantasy, serif;
     text-align: center;
   
   }
@@ -44,7 +46,10 @@ nav {
 
   }
 
-   h5{
-     text-align: center;
-   }
+  
+  main {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
   
