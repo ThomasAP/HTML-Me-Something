@@ -1,6 +1,18 @@
+p, span {
+  font-family: 'Goudy Bookletter 1911', Georgia, Times, serif;
+  font-size: 15px;
+  line-height: 25px;
+ }
+
+ h1, h2, h3 {
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-size: 50px;
+  line-height: 70px;
+ }
+
 nav {
 
-    font-size: 17px;
+    font-size: 13px;
     font-family: fantasy, serif;
     text-align: center;
   
@@ -12,7 +24,6 @@ nav {
   }
   
   .name {
-    text-align: center;
     color: green;
   }
   
@@ -22,13 +33,17 @@ nav {
   
   nav li {
     display: inline;
-    margin: 0;
-    padding: 10px;
+    margin: 0px;
+    padding: 5px;
   }
   
-  .self-image {
   
+
+  .thanks-img { 
+    border-top: 30px;
+
   }
+
    h5{
      text-align: center;
    }
